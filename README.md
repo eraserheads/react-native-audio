@@ -1,3 +1,5 @@
+## FIX warning requiresMainQueueSetup
+
 Record audio in iOS or Android React Native apps.
 
 ## BREAKING CHANGES
